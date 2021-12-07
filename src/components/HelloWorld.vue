@@ -15,6 +15,7 @@
           <div>Welcome to the Vuetify 3 Alpha</div>
         </h1>
 
+          <small>Vite Preview</small>
 
         <p class="subheading font-weight-regular">
           For help and collaboration with other Vuetify developers,
@@ -92,7 +93,7 @@
   </v-container>
 </template>
 
-<script>
+<script lang="ts">
 import logo from '../assets/logo.svg'
 
 export default {

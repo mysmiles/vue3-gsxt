@@ -6,7 +6,7 @@
   </v-app>
 </template>
 
-<script>
+<script lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {
